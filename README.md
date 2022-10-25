@@ -25,3 +25,7 @@ else if value Not Present ->  Assign it to a new  a value.
 >variable=${variable:-superman}  
 
 >echo "Printing the variable after checking : $variable"  
+
+## CheatSheet : 
+
+> https://devhints.io/bash
