@@ -32,5 +32,6 @@ else if value Not Present ->  Assign it to a new  a value.
 
 ## Print command inside echo on the same line:
 
-> echo "Operating System: " $(uname)
+> echo "Operating System: " $(uname)  
+
 > echo "Operating System: " `uname`
