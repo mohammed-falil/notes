@@ -8,6 +8,7 @@
 if variable present -> No change of the new value.  
 else if value Not Present ->  Assign it to a new  a value.   
 
+#Example: 
  
 >echo "value for variable before assigning $variabe"   
 
