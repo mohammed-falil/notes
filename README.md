@@ -1,7 +1,8 @@
 "# bash-script-notes" 
  ## : (COLON) Operator
  
-`echo "value for variable before assigning $variabe"`
+`echo "value for variable before assigning $variabe"`  
+
 `variable=${variable:-superman}`
 `echo "Value for variable after assigning $variable"`
 `echo "Now changing the value with checking whether it is null"
