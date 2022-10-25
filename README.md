@@ -1,5 +1,13 @@
 "# bash-script-notes" 
  ## : (COLON) Operator
+
+### Explanation:  
+
+#### This oeprator is mainly used to check whether the value alread present in the variable,  
+
+if variable present -> No change of the new value.  
+else if value Not Present ->  Assign it to a new  a value.   
+
  
 >echo "value for variable before assigning $variabe"   
 
